@@ -104,5 +104,5 @@ project/
 From the project root, run the test suite with:
 
 ```bash
-pytest tests/ -v ```
+pytest tests/ -v 
 
