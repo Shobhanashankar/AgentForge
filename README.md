@@ -99,3 +99,10 @@ project/
 
 ---
 
+## Testing
+
+From the project root, run the test suite with:
+
+```bash
+pytest tests/ -v ```
+
